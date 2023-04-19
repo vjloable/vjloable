@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vjloable
-- 👀 I’m interested in IoT, ML, and other fun projects...
+- 👀 I’m interested in IoT, Competitive Programming, Machine Learning, and other fun projects...
 
 <!---
 vjloable/vjloable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
